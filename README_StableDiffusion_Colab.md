@@ -1,22 +1,22 @@
 
-# 🖼️ Text-to-Image Generation with Stable Diffusion (Colab)
+Image Generation with Stable Diffusion (Colab)
 
 This notebook enables **text-to-image generation** using the powerful **Stable Diffusion v1.5** model via Hugging Face's 🤗 `diffusers` library.  
 Runs seamlessly on **Google Colab** — no setup or GPU required locally.
 
 ---
 
-## 🚀 Features
+ Features
 
-- 🎨 Generates **high-quality images** from **natural language prompts**.
-- ⚡ Uses **Stable Diffusion v1.5** from `runwayml`.
-- 🖥️ **GPU acceleration** in Colab (if available).
-- 💾 Saves generated images locally as `.png`.
-- 👁️ Displays image directly in the notebook.
+-  Generates **high-quality images** from **natural language prompts**.
+-  Uses **Stable Diffusion v1.5** from `runwayml`.
+-  **GPU acceleration** in Colab (if available).
+-  Saves generated images locally as `.png`.
+-  Displays image directly in the notebook.
 
 ---
 
-## 📋 Requirements
+ Requirements
 
 If you're using **Google Colab**, you're all set ✅.  
 Otherwise, install the required libraries manually:
